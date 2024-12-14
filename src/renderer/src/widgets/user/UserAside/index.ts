@@ -1,0 +1,1 @@
+export { UserAside } from './ui';
